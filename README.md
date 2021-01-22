@@ -10,4 +10,4 @@ Looking at single channels, it was necessary to split it into more channels so t
 
 Using simple layers and maxpooling will yield an accuracy of 98% and thus i have used dense layer and dropout so to avoid overfitting.
 
-For any queries on the notebook or understanding, contact this mail : pklappy21@gmail.com 
+
